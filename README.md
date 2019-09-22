@@ -1,6 +1,6 @@
 # ETL-Project
 
-The project idea is to collaborate names of new borns and compare as to how many times people have used the same name for their pets as well.
+The project idea is to collaborate names of new borns and compare as to how many times people have used the same name for their pets as well and which are most used names for babies and pets.
 
 Extraction
 
