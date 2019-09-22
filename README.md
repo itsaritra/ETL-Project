@@ -10,7 +10,7 @@ We used 2 datasets from the public platform Kaggle and also Google Big data quer
 
 Transformation
 
-Our first steps in cleaning up the datasets involved figuring out which variables were not relevant and merged the cleaned data sets.
+Our first steps in cleaning up the datasets involved figuring out which variables were not relevant, renaming few of the columns as per the requirement and merged the cleaned data sets.
 
 Load
 
